@@ -1,0 +1,19 @@
+{
+  "name": "rick-and-morty-express-app",
+  "version": "1.0.0",
+  "description": "A Crud of Rick and Morty Characters",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Botz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "helmet": "^3.22.0"
+  }
+}

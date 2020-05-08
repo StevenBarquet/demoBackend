@@ -1,0 +1,1 @@
+App of Rick and Morty backend
